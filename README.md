@@ -12,5 +12,5 @@
 
 📉Insights :  In the technology and IT industry, attrition rates can vary but are often higher compared to other sectors. An attrition rate of around 16% may be considered average or even slightly below average in this industry. If we check department-wise attrition we can see that R&D has the highest number which is 56.12% and that isn't good for the organization. The highest number of people leaving the organization is between the age group of 25-34. The Education Field wise attrition indicates that the highest number of people leaving the organization are from the field of Life science followed by Medical and Marketing.
 
-##Tools Used :
+## Tools Used :
 Tableau
