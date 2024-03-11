@@ -1,4 +1,4 @@
-# HR_Data_Analytics_Dashboard
+# HR_Analytical_Dashboard
 
 🎯Objective : The objective of creating this HR Analytics dashboard is to gain valuable insights into the attrition patterns within the organization and understand the factors contributing to employee turnover.
 
